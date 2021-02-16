@@ -1,0 +1,5 @@
+export const ADD_LIKE = "ADD_LIKE";
+export const REMOVE_LIKE = "REMOVE_LIKE";
+export const GET_PHOTOS_FAILED = "GET_PHOTOS_FAILED";
+export const GET_PHOTOS_PENDING = "GET_PHOTOS_PENDING";
+export const GET_PHOTOS_SUCCESS = "GET_PHOTOS_SUCCESS";
