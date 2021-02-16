@@ -19,7 +19,7 @@ const ImageCard = ({urls, id}) => {
             <div style={style.image_holder}>
                 <img style={style.image} src={urls.regular}/>
             </div>
-            <button onClick={toggleLike}>Add like</button>
+            <button onClick={toggleLike}>Like</button>
         </div>
     )
 }
