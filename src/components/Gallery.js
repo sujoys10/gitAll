@@ -2,7 +2,7 @@ import React, { Fragment } from 'react';
 import ImageCard from './ImageCard';
 
 const Gallery = ({images}) => {
-    <div>I am ...</div>
+    <div>The show must go on</div>
     return (
         <Fragment>
             { images.map((img,i) => (
